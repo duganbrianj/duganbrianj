@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Brian Dugan
 
-<!--
-**duganbrianj/duganbrianj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cofounder of [Optakit](https://optakit.com)\
+💻 Full-Stack Developer passionate about building scalable,
+user-friendly products.
 
-Here are some ideas to get you started:
+### 🔧 Core Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   Vue3 (Frontend)
+-   Python (Backend)
+-   SQL (Databases)
+-   Google Cloud (Infrastructure)
+
+### 📫 Connect with Me
+
+-   🌐 [optakit.com](https://optakit.com)\
+-   💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/brian-dugan63119))\
+
+------------------------------------------------------------------------
+
+⚡ *Always open to collaborate*
