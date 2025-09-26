@@ -1,8 +1,8 @@
-# Hi 👋, I'm Brian Dugan
+# Hi 👋, I'm Brian
 
 🚀 Cofounder of [Optakit](https://optakit.com)\
 💻 Full-Stack Developer passionate about building scalable,
-user-friendly products.
+user-friendly products for progressives.
 
 ### 🔧 Core Tech Stack
 
@@ -13,8 +13,8 @@ user-friendly products.
 
 ### 📫 Connect with Me
 
--   🌐 [optakit.com](https://optakit.com)\
--   💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/brian-dugan63119))\
+-   🌐 [optakit.com](https://optakit.com)
+-   💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/brian-dugan63119))
 
 ------------------------------------------------------------------------
 
